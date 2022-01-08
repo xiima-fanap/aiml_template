@@ -1,0 +1,3 @@
+input_images_directory: "./images/"
+output_images_directory: "./output/"
+threshold_detection: .8

@@ -1,0 +1,3 @@
+input_videos_directory: "./videos/"
+output_videos_directory: "./output/"
+threshold_detection: .8
