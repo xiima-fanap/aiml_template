@@ -1,0 +1,2 @@
+recursive-include tests/data/ *
+recursive-include aiml_template/data/ *
