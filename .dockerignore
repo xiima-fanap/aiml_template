@@ -1,0 +1,20 @@
+# Python cache
+*.pyc
+*.pyc
+
+# Virtual environment
+venv/
+
+# Tox cache
+.tox
+
+# Setuptools cache
+build
+aiml_template.egg-info/
+
+# Images and videos
+*.png
+*.jpg
+*.jpeg
+*.avi
+*.mp4
