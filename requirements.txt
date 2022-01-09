@@ -4,3 +4,4 @@ numpy==1.*
 gradio==2.*
 PyYAML==6.*
 argparse==1.*
+opencv-python==4.*
