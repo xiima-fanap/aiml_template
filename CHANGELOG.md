@@ -1,3 +1,12 @@
+# v0.3.0
+
+- Feature: example.py contains multiple files
+- Bug: input type check implementation fixed in inference_visualize
+- Feature: example image added
+- Feature: opencv-python added to the requirements
+
+<br>
+
 # v0.2.1
 
 - Bug: Major bug fixed
