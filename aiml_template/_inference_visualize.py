@@ -4,7 +4,6 @@ results
 
 import numpy as np
 
-from typing import Tuple
 from aiml_template import SampleClass
 
 
@@ -23,7 +22,7 @@ class SampleClassVisualize:
         self.sample_class = SampleClass()
 
     def sample_method_visualize(self, image:np.ndarray) -> \
-            Tuple(str, np.ndarray):
+            tuple((str, np.ndarray)):
         """Sample method to do inference and visualize the response
         
         Parameters
