@@ -41,7 +41,7 @@ class SampleClassVisualize:
             If input type is not np.ndarray
         """
 
-        response = self.sample_class.sample_method(input)
+        response = self.sample_class.sample_method(image)
         image_visualized = self._sample_private_method_visualize(response)
 
         return response, image_visualized
