@@ -22,4 +22,4 @@ python3 dataset_generator.py -c config.yaml
 
 ## Contributors
 
-- \[Hamid Mohammadi\]: <name@domain.com>
+- \[Name Surname\]: <name@domain.com>
