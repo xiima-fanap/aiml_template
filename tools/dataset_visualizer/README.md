@@ -22,4 +22,4 @@ python3 dataset_visualizer.py -c config.yaml
 
 ## Contributors
 
-- Hamid Mohammadi: <sandstormeatwo@gmail.com>
+- \[Name Surname\]: <name@domain.com>
