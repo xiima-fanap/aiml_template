@@ -53,4 +53,4 @@ python3 train.py -c config.yaml
 
 
 ## Contributors
-1. Hamid Mohammadi: <sandstormeatwo@gmail.com>
+1. \[Name Surname\]: <name@domain.com>
