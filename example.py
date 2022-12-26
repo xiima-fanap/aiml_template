@@ -12,7 +12,7 @@ from aiml_template import SampleClassVisualize
 
 
 def example_sample_class():
-    image = cv2.imread("./example.png")
+    image = cv2.imread("./sample.png")
 
     sample_class = SampleClass()
     response = sample_class.sample_method(image)
@@ -21,7 +21,7 @@ def example_sample_class():
 
 
 def example_sample_class_visualize():
-    image = cv2.imread("./example.png")
+    image = cv2.imread("./sample.png")
 
     sample_class = SampleClassVisualize()
     response, image_visualized = sample_class.sample_method_visualize(image)
