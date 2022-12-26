@@ -1,8 +1,10 @@
 FROM tensorflow/tensorflow:2.5.0-gpu
 
+# Install requirements
 RUN apt update && \
     apt install -y ffmpeg libsm6 libxext6 tox ca-certificates
 
+# Move into workdir
 WORKDIR /workdir
 
 # Add all package files
