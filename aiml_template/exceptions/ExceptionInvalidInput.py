@@ -1,4 +1,4 @@
 class ExceptionInvalidInput(Exception):
-    """Exception to indicate wrong input type"""
+    """Exception to indicate incorrect input type"""
     
     pass
