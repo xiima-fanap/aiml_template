@@ -22,4 +22,4 @@ python3 dataset_generator.py -c config.yaml
 
 ## Contributors
 
-- Hamid Mohammadi: <sandstormeatwo@gmail.com>
+- \[Hamid Mohammadi\]: <name@domain.com>
