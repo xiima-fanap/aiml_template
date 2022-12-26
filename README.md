@@ -115,4 +115,5 @@ tox -e py36 tests tests/test_script.py::ClassTest::method_test
 
 
 ## Contributors
-1. Hamid Mohammadi: <sandstormeatwo@gmail.com>
+
+1. \[Name Surname\]: <name@domain.com>

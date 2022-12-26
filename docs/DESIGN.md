@@ -23,4 +23,4 @@ Describing what is your design and why you have made those decisions.
 
 ## Contributing
 
-1. Hamid Mohammadi: <sandstormeatwo@gmail.com>
+1. \[Name Surname\]: <name@domain.com>

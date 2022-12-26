@@ -22,4 +22,4 @@ python3 gradio_usecase.py
 
 ## Contributors
 
-- Hamid Mohammadi: <sandstormeatwo@gmail.com>
+- \[Name Surname\]: <name@domain.com>
