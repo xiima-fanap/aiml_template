@@ -12,7 +12,7 @@ venv/
 build
 aiml_template.egg-info/
 
-# Images and videos
+# Images, Audios, and videos
 *.png
 *.jpg
 *.jpeg
