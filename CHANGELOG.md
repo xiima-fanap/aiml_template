@@ -1,3 +1,9 @@
+# v0.3.1
+
+- Refactor: Minor repo-wide updates
+
+<br>
+
 # v0.3.0
 
 - Feature: example.py contains multiple files
