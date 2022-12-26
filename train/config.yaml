@@ -1,0 +1,3 @@
+hdf5_dataset_path: "/path/to/hdhf5_dataset_file"  # Path to the HDF5 file containing the dataset
+saved_model_path: "/path/to/store/saved_models"  # Path to save the model checkpoints
+train_iterations: 50  # Number for iterations to train the model

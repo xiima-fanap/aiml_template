@@ -18,3 +18,6 @@ aiml_template.egg-info/
 *.jpeg
 *.avi
 *.mp4
+
+# Include example image
+!example.png

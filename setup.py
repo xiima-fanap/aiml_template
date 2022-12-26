@@ -14,7 +14,7 @@ def _read_requirements(path="./requirements.txt"):
 setup(
     name="aiml_template",
     # Semantic Versioning 2.0.0
-    version="0.1.0",
+    version="0.3.0",
     author="Hamid Mohammadi",
     author_email="sandstormeatwo@gmail.com",
     description=(
